@@ -3,4 +3,5 @@
 *.blg
 *.fdb_latexmk
 *.fls
+*.log
 *.syntex.gz
